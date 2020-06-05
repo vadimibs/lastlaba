@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1591359755 source:c:\users\Татяна\desktop\labi\4lab\main.cpp
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+	"dynamicmassive.h"
+
+1591359916 c:\users\Татяна\desktop\labi\4lab\dynamicmassive.h
+	<iostream>
+
